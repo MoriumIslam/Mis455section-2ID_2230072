@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium';
+}
+img{
+  width: 50%;
+  margin: 20px;
+  padding:20px;
+  box-sizing: border-box;
+}
+p{
+  font-family: system-ui;
+}

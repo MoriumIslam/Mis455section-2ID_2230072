@@ -1,0 +1,23 @@
+* {
+  margin: 20px; /* Adds margin around all elements */
+  padding: 20px; /* Adds padding inside all elements */
+  box-sizing: border-box; /* Ensures padding is included in width/height */
+}
+.main{
+  color: black;
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+p{
+    font-size: 40px;
+}
+
+img{
+  width: 50%;
+  height: auto;
+  margin-left: 330px;
+  box-shadow: 10px 10px 10px 10px;
+  
+}
